@@ -1,4 +1,6 @@
 pierwsza
 druga
-trzecia
+trzecia zmieniona
+trzecia i pol
 czwarta
+kolejna zmiana
